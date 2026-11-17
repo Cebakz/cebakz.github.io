@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /snipiko/ad-test.html
+Disallow: /snipiko/ads-test/
+Disallow: /snipiko/consent-qa/
+Disallow: /snipiko/consent-qa-paused/
+Disallow: /snipiko/consent-qa-standard/
+Sitemap: https://cebakz.github.io/sitemap.xml
